@@ -15,11 +15,16 @@ h1 {
 #username {
     border-radius: 7px;
     width: 300px;
-    background-color: aqua;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 #pass {
     border-radius: 7px;
     width: 300px;
-    background-color: aqua;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+button {
+    color: rebeccapurple;
+    border-radius: 5px;
 }
