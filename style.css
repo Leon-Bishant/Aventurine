@@ -15,9 +15,11 @@ h1 {
 #username {
     border-radius: 7px;
     width: 300px;
+    background-color: aqua;
 }
 
 #pass {
     border-radius: 7px;
     width: 300px;
+    background-color: aqua;
 }
