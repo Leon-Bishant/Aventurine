@@ -12,3 +12,8 @@ h1 {
     font-style: italic;
 }
 
+#username {
+    border-radius: 7px;
+    width: 100px;
+    
+}
