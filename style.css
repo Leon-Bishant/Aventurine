@@ -16,15 +16,19 @@ h1 {
     border-radius: 7px;
     width: 300px;
     font-family: 'Times New Roman', Times, serif;
+    color: aqua;
 }
 
 #pass {
     border-radius: 7px;
     width: 300px;
     font-family: 'Times New Roman', Times, serif;
+    color: aqua;
 }
 
-button {
-    color: rebeccapurple;
+#submit  {
     border-radius: 5px;
+    color: rebeccapurple;
+    margin-top: auto;
+    margin-left: 10px;
 }
